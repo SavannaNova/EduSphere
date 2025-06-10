@@ -1,0 +1,7 @@
+cd /path/to/edusphere_frontend
+git init
+git add .
+git commit -m "Initial EduSphere frontend version"
+git branch -M main
+git remote add origin https://github.com/SavannaNova/edusphere-frontend.git
+git push -u origin main
